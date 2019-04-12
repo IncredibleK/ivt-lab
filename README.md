@@ -1,8 +1,8 @@
 # IVT Spaceship
 
-This is a sample application for the [Integration and Verification Techniques](http://www.mit.bme.hu/oktatas/targyak/vimiac04) course at BME MIT.
+This is a sample application for th dsadse [Integration and Verification Techniques](http://www.mit.bme.hu/oktatas/targyak/vimiac04) course at BME MIT.
 
-The application is simplified and deliberately contains bugs.
+The application is si sasamplified and deliberately contains bugs.
 
 ## Getting started
 
